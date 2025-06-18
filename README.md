@@ -45,7 +45,7 @@ Données de compétition
 ## 🧪 Évaluation
 
 Les modèles sont évalués à l’aide de plusieurs métriques :
-- **RMSLE
+- **RMSLE**
 - **RMSE**
 - **R² Score**
 - **Cross-validation**
