@@ -18,4 +18,3 @@ catboost
 
 # AutoML
 autogluon.tabular[all]
-
