@@ -20,7 +20,8 @@ Il sert à la fois de **preuve de maîtrise des outils de data science** et de *
 
 ## 🏡 Jeu de données utilisé
 
-Le dataset utilisé est celui de **[House Prices - Advanced Regression Techniques (Kaggle)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)**.
+Le dataset utilisé est celui de **[House Prices - Advanced Regression Techniques (Kaggle)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)**. 
+Données de compétition
 
 - 1 460 maisons résidentielles
 - 80+ variables (catégorielles, numériques, ordinales)
@@ -54,7 +55,7 @@ Les modèles sont évalués à l’aide de plusieurs métriques :
 
 ## 📂 Arborescence du projet 
 
-├── notebook.ipynb # Notebook principal (EDA, modèles, résultats)
-├── README.md # Présentation du projet
-├── data/ # Dossier des données (train/test)
-└── requirements.txt #  Dépendances Python
+├── notebook.ipynb # Notebook principal (EDA, modèles, résultats)  
+├── README.md # Présentation du projet  
+├── data/ # Dossier des données (train/test)  
+└── requirements.txt #  Dépendances Python  
