@@ -1,0 +1,21 @@
+# Core data libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Scikit-learn and models
+scikit-learn<1.7.0
+
+# XGBoost
+xgboost
+
+# LightGBM
+lightgbm
+
+# CatBoost
+catboost
+
+# AutoML
+autogluon.tabular[all]
+
