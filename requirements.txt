@@ -3,6 +3,7 @@ numpy
 pandas
 matplotlib
 seaborn
+ydata_profiling
 
 # Scikit-learn and models
 scikit-learn<1.7.0
